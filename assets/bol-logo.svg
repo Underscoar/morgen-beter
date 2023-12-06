@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.8, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 43.7 43.3" style="enable-background:new 0 0 43.7 43.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000139991108941446895490000002746089818468129424_);fill:#29235C;}
+	.st1{fill:#29235C;}
+	.st2{clip-path:url(#SVGID_00000072250750960577027480000009002959857876011136_);fill:#29235C;}
+	
+		.st3{clip-path:url(#SVGID_00000072250750960577027480000009002959857876011136_);fill:none;stroke:#29235C;stroke-width:1.578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0.6" y="0.5" width="42.7" height="42.7"/>
+	</defs>
+	<clipPath id="SVGID_00000181785874818368048870000011212682734214646167_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="clip-path:url(#SVGID_00000181785874818368048870000011212682734214646167_);fill:#29235C;" d="M19.6,16.1
+		c0,2.1-1.2,2.5-3,2.5h-0.8c-1.7,0-2.9-0.4-3-2.4v-1.9c0-2,1.2-2.4,3-2.4h0.8c1.7,0,3,0.4,3,2.5V16.1z M16.2,10.6
+		c-1.3,0-2.5,0.2-3.4,0.6V7h-1.5v7.2v1.3v0.6c0,2.9,2,3.6,4.8,3.6c2.8,0,4.8-0.7,4.8-3.6v-1.9C21.1,11.3,19,10.6,16.2,10.6"/>
+</g>
+<rect x="35.2" y="7" class="st1" width="1.5" height="12.6"/>
+<g>
+	<defs>
+		<rect id="SVGID_00000005978899308256032440000001080511062072051089_" x="0.6" y="0.5" width="42.7" height="42.7"/>
+	</defs>
+	<clipPath id="SVGID_00000016764735788316935190000006942667562139379866_">
+		<use xlink:href="#SVGID_00000005978899308256032440000001080511062072051089_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="clip-path:url(#SVGID_00000016764735788316935190000006942667562139379866_);fill:#29235C;" d="M31.3,16.1
+		c0,2.1-1.2,2.5-3,2.5h-0.8c-1.7,0-3-0.4-3-2.5v-1.8c0-2.1,1.2-2.5,3-2.5h0.8c1.7,0,3,0.4,3,2.5V16.1z M27.9,10.6
+		c-2.8,0-4.9,0.7-4.9,3.6v1.9c0,2.9,2,3.6,4.9,3.6c2.8,0,4.8-0.7,4.8-3.6v-1.9C32.8,11.3,30.7,10.6,27.9,10.6"/>
+	
+		<path style="clip-path:url(#SVGID_00000016764735788316935190000006942667562139379866_);fill:none;stroke:#29235C;stroke-width:1.578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+		M1.4,33.7c0,0,10.6,0.2,21.1-1.5c8.8-1.4,15.5-3.1,20-4.8 M42.5,39.8c0,1.4-1.2,2.6-2.6,2.6H4c-1.4,0-2.6-1.2-2.6-2.6V3.8
+		c0-1.4,1.2-2.6,2.6-2.6h35.9c1.4,0,2.6,1.2,2.6,2.6V39.8z"/>
+</g>
+</svg>

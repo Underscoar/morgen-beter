@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Laag_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 131.08 378.89"
+	 style="enable-background:new 0 0 131.08 378.89;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B0D2F0;}
+	.st1{fill:none;stroke:#29265B;stroke-width:2.9642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#29265B;stroke-width:2.9642;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:aipgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:aipgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<rect x="100.67" y="246.82" class="st0" width="23.7" height="80.27"/>
+		<rect x="100.67" y="246.82" class="st1" width="23.7" height="80.27"/>
+		<line class="st1" x1="112.53" y1="221.39" x2="112.53" y2="246.67"/>
+		<g>
+			<path class="st0" d="M94.53,366.34c1.78,5.14-1.22,9.35-6.66,9.35H42.43c-5.44,0-8.38-4.18-6.53-9.3l0.82-2.28
+				c1.85-5.12,7.81-9.3,13.25-9.3h30.68c5.44,0,11.34,4.21,13.12,9.35L94.53,366.34z"/>
+			<path class="st2" d="M94.53,366.34c1.78,5.14-1.22,9.35-6.66,9.35H42.43c-5.44,0-8.38-4.18-6.53-9.3l0.82-2.28
+				c1.85-5.12,7.81-9.3,13.25-9.3h30.68c5.44,0,11.34,4.21,13.12,9.35L94.53,366.34z"/>
+			<line class="st1" x1="37.25" y1="274.14" x2="42.92" y2="354.65"/>
+			<path class="st1" d="M91.18,53.72c0,18.44-12.29,33.39-27.45,33.39c-15.16,0-27.45-14.95-27.45-33.39"/>
+			<path class="st1" d="M28.36,57.16c0,0,22.25-8.71,35.37-24.99"/>
+			<path class="st1" d="M56.23,20.55c0,0,19.75,24.51,42.71,36.61"/>
+			<path class="st1" d="M64.44,3.3C28.91-0.9,24.12,26.27,19.85,46.73C15.59,67.18,5.75,74.51,5.75,74.51s0.48,11.23,18.7,21.83"/>
+			<path class="st1" d="M41.62,98.83c0,0-24.94,8.05-24.94,31.02l0.87,74.59"/>
+			<line class="st1" x1="93.38" y1="274.33" x2="87.7" y2="354.85"/>
+			<path class="st1" d="M66.18,3.5c35.53-4.2,40.32,22.97,44.58,43.43c4.27,20.46,14.11,27.78,14.11,27.78s-0.48,11.23-18.7,21.83"
+				/>
+			<path class="st1" d="M89,99.02c0,0,24.94,8.05,24.94,31.02l-0.87,74.59"/>
+			<line class="st1" x1="65.47" y1="278.29" x2="65.47" y2="365.91"/>
+			<path class="st0" d="M87.7,98.83c0,12.21-10.32,22.11-23.04,22.11c-12.72,0-23.04-9.9-23.04-22.11
+				c-17.94,17.02-11.16,31.68-6.13,49.59c5.03,17.91-1.25,28.22-1.25,28.22c-6.24,8.7-11.68,18-16.23,27.8
+				C10.18,221.34,5,239.74,3.04,259.07c17.74,11.69,38.98,18.5,61.82,18.5l0.91,0.19c22.83,0,44.08-6.81,61.81-18.5
+				c-1.96-19.34-7.14-37.73-14.98-54.63c-4.55-9.8-9.99-19.11-16.23-27.8c0,0-6.28-10.31-1.25-28.22
+				c5.03-17.91,11.81-32.57-6.13-49.59L87.7,98.83z"/>
+			<path class="st1" d="M87.7,98.83c0,12.21-10.32,22.11-23.04,22.11c-12.72,0-23.04-9.9-23.04-22.11
+				c-17.94,17.02-11.16,31.68-6.13,49.59c5.03,17.91-1.25,28.22-1.25,28.22c-6.24,8.7-11.68,18-16.23,27.8
+				C10.18,221.34,5,239.74,3.04,259.07c17.74,11.69,38.98,18.5,61.82,18.5l0.91,0.19c22.83,0,44.08-6.81,61.81-18.5
+				c-1.96-19.34-7.14-37.73-14.98-54.63c-4.55-9.8-9.99-19.11-16.23-27.8c0,0-6.28-10.31-1.25-28.22
+				c5.03-17.91,11.81-32.57-6.13-49.59L87.7,98.83z"/>
+		</g>
+		<circle class="st1" cx="65.06" cy="129.36" r="3.2"/>
+		<circle class="st1" cx="65.06" cy="143.12" r="3.2"/>
+		<circle class="st1" cx="65.06" cy="156.87" r="3.2"/>
+	</g>
+</switch>
+</svg>

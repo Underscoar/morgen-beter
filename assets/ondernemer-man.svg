@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Laag_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 131.08 384.84"
+	 style="enable-background:new 0 0 131.08 384.84;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B0D2F0;}
+	.st1{fill:none;stroke:#29265B;stroke-width:2.9642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#B0D2F0;stroke-width:2.8282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#29265B;stroke-width:2.9642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:aipgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:aipgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<rect x="101.04" y="253.13" class="st0" width="23.7" height="80.27"/>
+		<line class="st1" x1="112.53" y1="225.52" x2="112.53" y2="250.8"/>
+		<circle class="st1" cx="65.06" cy="133.5" r="3.2"/>
+		<circle class="st1" cx="65.06" cy="147.25" r="3.2"/>
+		<circle class="st1" cx="65.06" cy="161" r="3.2"/>
+		<g>
+			<path class="st1" d="M80.16,27.4c8.42,6.92,13.95,18.63,13.95,31.92c0,21.26-14.17,38.49-31.64,38.49
+				c-17.47,0-31.64-17.23-31.64-38.49c0-7.16,1.61-13.86,4.41-19.6"/>
+			<path class="st1" d="M94.18,62.76c5.45-5.45,8.82-12.97,8.82-21.29c0-16.63-13.48-30.11-30.11-30.11c0,0-28.21-0.29-39.65-7.2
+				c-2.63,4.22-4.15,9.2-4.15,14.54c0,15.2,12.32,27.53,27.53,27.53c10.94,0,20.39-6.39,24.83-15.63"/>
+			<path class="st0" d="M111.9,372.15c0,5.45-4.46,9.9-9.91,9.9H25.71c-5.45,0-9.9-4.46-9.9-9.9v-1.1c0-5.45,4.46-9.9,9.9-9.9H102
+				c5.45,0,9.91,4.46,9.91,9.9V372.15z"/>
+			<rect x="101.03" y="253.13" class="st1" width="23.7" height="80.27"/>
+			<path class="st0" d="M123.33,218.11v-76.96c0-20.05-16.26-36.31-36.31-36.31l0,0c-13.02,13.02-34.12,13.02-47.13,0l0,0
+				c-20.06,0-36.31,16.25-36.31,36.31v76.96H123.33z"/>
+			<path class="st2" d="M123.33,218.11v-76.96c0-20.05-16.26-36.31-36.31-36.31l0,0c-13.02,13.02-34.12,13.02-47.13,0l0,0
+				c-20.06,0-36.31,16.25-36.31,36.31v76.96H123.33z"/>
+			<path class="st1" d="M123.33,218.11v-76.96c0-20.05-16.26-36.31-36.31-36.31l0,0c-13.02,13.02-34.12,13.02-47.13,0l0,0
+				c-20.06,0-36.31,16.25-36.31,36.31v76.96H123.33z"/>
+			<path class="st1" d="M26.41,240.38c-12.61,0-22.83-9.97-22.83-22.27"/>
+			<path class="st1" d="M100.5,240.38c12.61,0,22.83-9.97,22.83-22.27"/>
+			<line class="st1" x1="100.5" y1="146.57" x2="100.5" y2="359.75"/>
+			<line class="st1" x1="26.41" y1="146.57" x2="26.41" y2="359.75"/>
+			<path class="st1" d="M68.93,132.04"/>
+			<path class="st1" d="M57.98,132.04"/>
+			<line class="st1" x1="64.15" y1="251.31" x2="64.15" y2="371.91"/>
+			<path class="st1" d="M111.9,372.15c0,5.45-4.46,9.9-9.91,9.9H25.71c-5.45,0-9.9-4.46-9.9-9.9v-1.1c0-5.45,4.46-9.9,9.9-9.9H102
+				c5.45,0,9.91,4.46,9.91,9.9V372.15z"/>
+			<polygon class="st3" points="71.93,121.67 68.93,132.04 73.25,200.3 63.46,209.03 53.66,200.3 57.98,132.04 54.95,121.92 
+				63.81,115.01 63.81,115.01 			"/>
+			<line class="st1" x1="57.98" y1="132.04" x2="68.93" y2="132.04"/>
+			<polyline class="st1" points="39.89,104.83 49.02,125.87 63.81,115.01 			"/>
+			<polyline class="st1" points="87.02,104.83 77.89,125.87 63.81,115.01 			"/>
+		</g>
+	</g>
+</switch>
+</svg>
