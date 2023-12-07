@@ -58,13 +58,12 @@
                         </label>
                     </div>
                     <div class="btn-wrap">
-                        <button class="selector-btn" :disabled="!gender" @click="submitForm">
-                            <template v-if="loading">
-                                <i class="fa-solid fa-circle-notch"></i>
-                                <span class="opacity-0">Volgende</span>
-                            </template>
-                            <span v-else>Volgende</span>
-                        </button>
+                        <a v-if="gender" :href="`morgen-beter.php?gender=${gender}`" class="selector-btn d-none" :class="{ 'd-inline-block': initialized }">
+                            Volgende
+                        </a>
+                        <a v-else href="morgen-beter.php" class="selector-btn disabled">
+                            Volgende
+                        </a>
                     </div>
                 </div>
             </div>
@@ -74,7 +73,7 @@
                     <img src="assets/bol-logo.svg" alt="Bol Adviseurs - Logo" width="75">
                 </div>
                 <div class="footer-center">
-                    <h2>“Jouw toekomstgerichte succesroute”</h2>
+                    <h2>Jouw toekomstgerichte succesroute</h2>
                 </div>
                 <div class="column">
                     <!-- Fill -->

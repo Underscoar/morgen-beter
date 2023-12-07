@@ -37,9 +37,35 @@ function setCenterGraphic(category, alreadyActive) {
     });
 
     if (!alreadyActive) {
+        document.querySelector('.back-btn').classList.add('active');
         document.querySelector(`.center-graphic .graphic-${category}`).classList.add('active');
     }
     else {
+        document.querySelector('.back-btn').classList.remove('active');
         document.querySelector('.center-graphic .graphic-default').classList.add('active');
     }
 }
+
+function resetView() {
+    const allGraphics = document.querySelectorAll('.center-graphic .graphic');
+
+    document.querySelector('.main-circle').classList.remove('category-active');
+    allButtons.forEach(button => { button.classList.remove('active') });
+    allCategories.forEach(button => { button.classList.remove('active') });
+
+    allGraphics.forEach(element => {
+        element.classList.remove('active');
+    });
+    document.querySelector('.center-graphic .graphic-default').classList.add('active');
+    document.querySelector('.back-btn').classList.remove('active');
+}
+
+document.onkeydown = function(evt) {
+    var isEscape = false;
+    if ("key" in evt) {
+        isEscape = (evt.key === "Escape" || evt.key === "Esc");
+    }
+    if (isEscape) {
+        resetView();
+    }
+};

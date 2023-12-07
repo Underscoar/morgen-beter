@@ -24,7 +24,11 @@
     <body>
         <main>
             <div class="graphic-wrap">
+                <button class="back-btn" type="button" name="button" onclick="resetView()">
+                    <i class="fa-solid fa-chevron-left"></i>
+                </button>
                 <div class="main-circle">
+                    <img src="assets/stippellijn.svg" class="dotted-line" alt="">
                     <div class="btns-wrap">
                         <div id="category-1" class="btn-wrap">
                             <button class="btn-yellow" data-category="1">
@@ -134,10 +138,10 @@
 
             <footer>
                 <div class="column">
-                    <img src="assets/bol-logo.svg" alt="Bol Adviseurs - Logo" width="75">
+                    <img src="assets/bol-logo.svg" alt="Bol Adviseurs - Logo" width="75" onClick="resetView()" class="pointer">
                 </div>
                 <div class="footer-center">
-                    <h2>“Jouw toekomstgerichte succesroute”</h2>
+                    <h2>Jouw toekomstgerichte succesroute</h2>
                 </div>
                 <div class="column">
                     <!-- Fill -->
