@@ -2,6 +2,7 @@
 
 const allCategories = document.querySelectorAll('.btns-wrap .btn-wrap');
 const allButtons = document.querySelectorAll('.btns-wrap button');
+const toggle = document.querySelector('#prive-zakelijk-toggle');
 
 allButtons.forEach(button => {
     button.addEventListener('click', () => selectCategory(button));
@@ -21,7 +22,12 @@ function selectCategory(selectedButton) {
 
     if (!isActiveBtn) {
         selectedButton.classList.add('active');
-        document.querySelector(`#category-${category}`).classList.add('active');
+        if (toggle.checked) {
+            document.querySelector(`#category-${category}`).classList.add('active');
+        }
+        else {
+            document.querySelector(`#prive-category-${category}`).classList.add('active');
+        }
         document.querySelector('.main-circle').classList.add('category-active');
     }
 
@@ -38,11 +44,17 @@ function setCenterGraphic(category, alreadyActive) {
 
     if (!alreadyActive) {
         document.querySelector('.back-btn').classList.add('active');
-        document.querySelector(`.center-graphic .graphic-${category}`).classList.add('active');
+        if (toggle.checked) {
+            document.querySelector(`#center-graphic-zakelijk .graphic-${category}`).classList.add('active');
+        }
+        else {
+            document.querySelector(`#center-graphic-prive .graphic-${category}`).classList.add('active');
+        }
     }
     else {
         document.querySelector('.back-btn').classList.remove('active');
-        document.querySelector('.center-graphic .graphic-default').classList.add('active');
+        document.querySelector('#center-graphic-zakelijk .graphic-default').classList.add('active');
+        document.querySelector('#center-graphic-prive .graphic-default').classList.add('active');
     }
 }
 
@@ -56,7 +68,8 @@ function resetView() {
     allGraphics.forEach(element => {
         element.classList.remove('active');
     });
-    document.querySelector('.center-graphic .graphic-default').classList.add('active');
+    document.querySelector('#center-graphic-zakelijk .graphic-default').classList.add('active');
+    document.querySelector('#center-graphic-prive .graphic-default').classList.add('active');
     document.querySelector('.back-btn').classList.remove('active');
 }
 
@@ -69,3 +82,36 @@ document.onkeydown = function(evt) {
         resetView();
     }
 };
+
+toggle.addEventListener('change', checkState);
+
+function checkState() {
+    if (toggle.checked) {
+        toggleZakelijk();
+    }
+    else {
+        togglePrive();
+    }
+}
+
+function toggleZakelijk() {
+    document.querySelector('#title-prive').classList.remove('active');
+    document.querySelector('#title-zakelijk').classList.add('active');
+    document.querySelector('#prive-btns-wrap').classList.remove('active');
+    document.querySelector('#zakelijk-btns-wrap').classList.add('active');
+    document.querySelector('#center-graphic-prive').classList.remove('active');
+    document.querySelector('#center-graphic-zakelijk').classList.add('active');
+    resetView();
+}
+
+function togglePrive() {
+    document.querySelector('#title-prive').classList.add('active');
+    document.querySelector('#title-zakelijk').classList.remove('active');
+    document.querySelector('#prive-btns-wrap').classList.add('active');
+    document.querySelector('#zakelijk-btns-wrap').classList.remove('active');
+    document.querySelector('#center-graphic-prive').classList.add('active');
+    document.querySelector('#center-graphic-zakelijk').classList.remove('active');
+    resetView();
+}
+
+checkState();
